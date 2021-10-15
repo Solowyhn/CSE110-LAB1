@@ -22,11 +22,6 @@ Something I want to accomplish during academic year 2021-2022:
 1.Learn the skills as a software engineer.
 2.Determine the area I want to work on.
 3.Find a full-time intern at summer.
-external link [corgi](https://images.app.goo.gl/DNHbU6v1sWYoiJjk6)
-[section link](#Profile)
 [relative link](README.md)
-
-1. movies
-2. books
 - [x] movies
 - [ ] books
